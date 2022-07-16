@@ -3,7 +3,7 @@
 This is My First Socket.io project with React.
 The project is from Youtube Socket.io crush course (https://www.youtube.com/watch?v=BAZ-tJOYhlA)
 
-![screenshot](./img/screen_shot.png)
+![screenshot](./img/desktop.png)
 
 In previous repository, I challenged my first socke.io project.
 And in this repository, I challenged Socket.io project with React.js.
